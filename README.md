@@ -1,4 +1,4 @@
-# Challenge 6 — Interpretación de Logs Distribuidos
+# Interpretación de Logs Distribuidos
 
 ## Descripción
 
